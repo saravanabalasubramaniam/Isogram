@@ -25,11 +25,11 @@ class Isogram
 	}
 	if(flag==1)
 	{	
-		System.out.println("no");
+		System.out.println("No");
 	}
 	else
 	{
-		System.out.println("yes");
+		System.out.println("Yes");
 	}
   }
 }
