@@ -23,13 +23,13 @@ class Isogram
 			}
 		}
 	}
-	if(flag==1)
+	if(flag!=1)
 	{	
-		System.out.println("No");
+		System.out.println("Yes");
 	}
 	else
 	{
-		System.out.println("Yes");
+		System.out.println("No");
 	}
   }
 }
